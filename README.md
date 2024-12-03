@@ -42,7 +42,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/sleep-disorder-prediction.git
+git clone https://github.com/Ajayvinayak/sleep-disorder-prediction.git
 Install the necessary dependencies:
 
 bash
